@@ -1,5 +1,6 @@
-# Guía 4. Introducción a la programación - Estructuras Iterativas
+# Guía 4. Introducción a la programación - Estructuras iterativas - Repaso
 
 
-[Enunciado](https://docs.google.com/document/d/1SZ8tKpI4q2dbGlTyKqlLWZBOgOowmLfY/preview?tab=t.0)
+
+[Enunciado](https://docs.google.com/document/d/1Z7mztm3Vk5sSLDrW-YvA76nMtucpuOyc/preview)
 
